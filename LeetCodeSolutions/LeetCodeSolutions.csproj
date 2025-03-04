@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+ <ItemGroup>
+        <PackageReference Include="coverlet.collector" Version="6.0.2"/>
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1"/>
+        <PackageReference Include="NUnit" Version="4.2.2"/>
+        <PackageReference Include="NUnit.Analyzers" Version="4.3.0"/>
+        <PackageReference Include="NUnit3TestAdapter" Version="4.6.0"/>
+    </ItemGroup>
+ <ItemGroup>
+   <Folder Include="ArrayAndString\" />
+   <Folder Include="Backtracking\" />
+   <Folder Include="BinarySearchTree\" />
+   <Folder Include="BinarySearch\" />
+   <Folder Include="BinaryTree\" />
+   <Folder Include="BitManipulation\" />
+   <Folder Include="DivideAndConquer\" />
+   <Folder Include="GraphBfs\" />
+   <Folder Include="Graph\" />
+   <Folder Include="HashMap\" />
+   <Folder Include="Heap\" />
+   <Folder Include="Intervals\" />
+   <Folder Include="KadaneAlgorithm\" />
+   <Folder Include="LinkedList\" />
+   <Folder Include="Math\" />
+   <Folder Include="Matrix\" />
+   <Folder Include="MultiDimensionalDP\" />
+   <Folder Include="OneDDP\" />
+   <Folder Include="SlidingWindow\" />
+   <Folder Include="Stack\" />
+   <Folder Include="Trie\" />
+   <Folder Include="TwoPointers\" />
+ </ItemGroup>
+</Project>
