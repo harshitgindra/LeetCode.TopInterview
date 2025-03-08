@@ -33,6 +33,5 @@
    <Folder Include="SlidingWindow\" />
    <Folder Include="Stack\" />
    <Folder Include="Trie\" />
-   <Folder Include="TwoPointers\" />
  </ItemGroup>
 </Project>

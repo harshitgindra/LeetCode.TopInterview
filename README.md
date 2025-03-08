@@ -69,7 +69,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 23                                           |  Find the Index of the First Occurrence in a String      | Easy       |   ✅     |
 | 24                                           |  Text Justification                                      | Hard       |        |
 | <br>        Two Pointers<br>                 |                                                                                                           |            |        |
-| 25                                           |  Valid Palindrome                                        | Easy       |        |
+| 25                                           |  Valid Palindrome                                        | Easy       |    ✅    |
 | 26                                           |  Is Subsequence                                          | Easy       |        |
 | 27                                           |  Two Sum II - Input Array Is Sorted                      | Medium     |        |
 | 28                                           |  Container With Most Water                               | Medium     |        |
