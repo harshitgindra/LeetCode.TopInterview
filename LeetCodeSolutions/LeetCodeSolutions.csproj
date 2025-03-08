@@ -13,7 +13,6 @@
         <PackageReference Include="NUnit3TestAdapter" Version="4.6.0"/>
     </ItemGroup>
  <ItemGroup>
-   <Folder Include="ArrayAndString\" />
    <Folder Include="Backtracking\" />
    <Folder Include="BinarySearchTree\" />
    <Folder Include="BinarySearch\" />
