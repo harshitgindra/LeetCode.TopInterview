@@ -30,7 +30,6 @@
    <Folder Include="MultiDimensionalDP\" />
    <Folder Include="OneDDP\" />
    <Folder Include="SlidingWindow\" />
-   <Folder Include="Stack\" />
    <Folder Include="Trie\" />
  </ItemGroup>
 </Project>
