@@ -44,11 +44,11 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | Id                                           | Problem                                                                                                   | Difficulty | Status |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------|--------|
 | <br>        Array / String<br>               |                                                                                                           |            |        |
-| 1                                            |  Merge Sorted Array                                     | Easy       |        |
-| 2                                            |  Remove Element                                         | Easy       |        |
-| 3                                            |  Remove Duplicates from Sorted Array                    | Easy       |        |
+| 1                                            |  Merge Sorted Array                                     | Easy       |    ✅    |
+| 2                                            |  Remove Element                                         | Easy       |    ✅    |
+| 3                                            |  Remove Duplicates from Sorted Array                    | Easy       |    ✅    |
 | 4                                            |  Remove Duplicates from Sorted Array II                 | Medium     |        |
-| 5                                            |  Majority Element                                       | Easy       |        |
+| 5                                            |  Majority Element                                       | Easy       |    ✅    |
 | 6                                            |  Rotate Array                                           | Medium     |        |
 | 7                                            |  Best Time to Buy and Sell Stock                        | Easy       |        |
 | 8                                            |  Best Time to Buy and Sell Stock II                     | Medium     |        |
