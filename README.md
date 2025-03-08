@@ -66,7 +66,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 20                                           |  Longest Common Prefix                                   | Easy       |        |
 | 21                                           |  Reverse Words in a String                               | Medium     |        |
 | 22                                           |  Zigzag Conversion                                       | Medium     |        |
-| 23                                           |  Find the Index of the First Occurrence in a String      | Easy       |        |
+| 23                                           |  Find the Index of the First Occurrence in a String      | Easy       |   ✅     |
 | 24                                           |  Text Justification                                      | Hard       |        |
 | <br>        Two Pointers<br>                 |                                                                                                           |            |        |
 | 25                                           |  Valid Palindrome                                        | Easy       |        |
