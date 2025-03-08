@@ -87,7 +87,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 38                                           |  Game of Life                                            | Medium     |        |
 | <br>        Hashmap<br>                      |                                                                                                           |            |        |
 | 39                                           |  Ransom Note                                             | Easy       |        |
-| 40                                           |  Isomorphic Strings                                      | Easy       |        |
+| 40                                           |  Isomorphic Strings                                      | Easy       |   ✅      |
 | 41                                           |  Word Pattern                                            | Easy       |        |
 | 42                                           |  Valid Anagram                                           | Easy       |        |
 | 43                                           |  Group Anagrams                                          | Medium     |        |

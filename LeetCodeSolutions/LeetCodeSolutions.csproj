@@ -21,7 +21,6 @@
    <Folder Include="DivideAndConquer\" />
    <Folder Include="GraphBfs\" />
    <Folder Include="Graph\" />
-   <Folder Include="HashMap\" />
    <Folder Include="Heap\" />
    <Folder Include="Intervals\" />
    <Folder Include="KadaneAlgorithm\" />
