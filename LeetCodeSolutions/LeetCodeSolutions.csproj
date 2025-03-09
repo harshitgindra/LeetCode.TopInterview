@@ -15,7 +15,6 @@
  <ItemGroup>
    <Folder Include="Backtracking\" />
    <Folder Include="BinarySearchTree\" />
-   <Folder Include="BinarySearch\" />
    <Folder Include="BitManipulation\" />
    <Folder Include="GraphBfs\" />
    <Folder Include="Graph\" />
