@@ -31,4 +31,37 @@ public static class TreeNodeExtensions
 
         return root;
     }
+    
+    public static int?[] ToArray(this TreeNode root)
+    {
+        if (root == null)
+            return new int?[0];
+
+        List<int?> result = new List<int?>();
+        Queue<TreeNode> queue = new Queue<TreeNode>();
+        queue.Enqueue(root);
+
+        while (queue.Count > 0)
+        {
+            TreeNode node = queue.Dequeue();
+            if (node != null)
+            {
+                result.Add(node.val);
+                queue.Enqueue(node.left);
+                queue.Enqueue(node.right);
+            }
+            else
+            {
+                result.Add(null);
+            }
+        }
+
+        // Remove trailing nulls
+        while (result.Count > 0 && result[result.Count - 1] == null)
+        {
+            result.RemoveAt(result.Count - 1);
+        }
+
+        return result.ToArray();
+    }
 }
