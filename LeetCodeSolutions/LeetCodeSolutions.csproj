@@ -16,7 +16,6 @@
    <Folder Include="Backtracking\" />
    <Folder Include="BinarySearchTree\" />
    <Folder Include="BinarySearch\" />
-   <Folder Include="BinaryTree\" />
    <Folder Include="BitManipulation\" />
    <Folder Include="DivideAndConquer\" />
    <Folder Include="GraphBfs\" />
