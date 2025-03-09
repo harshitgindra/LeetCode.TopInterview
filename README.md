@@ -195,7 +195,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 130                                          | Bitwise AND of Numbers Range                                                                              | Medium     |        |
 | <br>        Math<br>                         |                                                                                                           |            |        |
 | 131                                          | Palindrome Number                                                                                         | Easy       |        |
-| 132                                          | Plus One                                                                                                  | Easy       |        |
+| 132                                          | Plus One                                                                                                  | Easy       |   ✅     |
 | 133                                          | Factorial Trailing Zeroes                                                                                 | Medium     |        |
 | 134                                          | Sqrt(x)                                                                                                   | Easy       |        |
 | 135                                          | Pow(x, n)                                                                                                 | Medium     |        |

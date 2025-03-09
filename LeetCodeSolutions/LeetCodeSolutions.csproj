@@ -20,7 +20,6 @@
    <Folder Include="Heap\" />
    <Folder Include="Intervals\" />
    <Folder Include="KadaneAlgorithm\" />
-   <Folder Include="Math\" />
    <Folder Include="Matrix\" />
    <Folder Include="MultiDimensionalDP\" />
    <Folder Include="OneDDP\" />
