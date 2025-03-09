@@ -131,7 +131,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 77                                           | Sum Root to Leaf Numbers                                                                                  | Medium     |        |
 | 78                                           | Binary Tree Maximum Path Sum                                                                              | Hard       |        |
 | 79                                           | Binary Search Tree Iterator                                                                               | Medium     |        |
-| 80                                           | Count Complete Tree Nodes                                                                                 | Easy       |        |
+| 80                                           | Count Complete Tree Nodes                                                                                 | Easy       |   ✅     |
 | 81                                           | Lowest Common Ancestor of a Binary Tree                                                                   | Medium     |        |
 | <br>        Binary Tree BFS<br>              |                                                                                                           |            |        |
 | 8282                                         | Binary Tree Right Side View                                                                               | Medium     |        |
