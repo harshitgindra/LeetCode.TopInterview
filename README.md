@@ -120,7 +120,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 67                                           |  LRU Cache                                               | Medium     |        |
 | <br>        Binary Tree General<br>          |                                                                                                           |            |        |
 | 68                                           |  Maximum Depth of Binary Tree                            | Easy       |   ✅     |
-| 69                                           |  Same Tree                                               | Easy       |        |
+| 69                                           |  Same Tree                                               | Easy       |   ✅     |
 | 70                                           |  Invert Binary Tree                                      | Easy       |        |
 | 71                                           |  Symmetric Tree                                          | Easy       |        |
 | 72                                           |  Construct Binary Tree from Preorder and Inorder Traversal<br>        <br>        | Medium     |        |
