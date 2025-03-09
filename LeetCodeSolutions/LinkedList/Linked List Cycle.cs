@@ -1,7 +1,7 @@
 ﻿using LeetCodeSolutions.Utils;
 using NUnit.Framework;
 
-namespace LeetCode.EasyProblems
+namespace LeetCodeSolutions.LinkedList
 {
     class Linked_List_Cycle
     {
@@ -32,8 +32,7 @@ namespace LeetCode.EasyProblems
         [Category("TopInterview")]
         public void Test1((bool Output, int[] Input) item)
         {
-            var listNode = ListNodeBuilder.BuildListNode(item.Input);
-            HasCycle(listNode);
+            HasCycle(item.Input.ToListNode());
         }
 
         public static IEnumerable<(bool Output, int[] Input)> Input
