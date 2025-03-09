@@ -123,11 +123,11 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 69                                           |  Same Tree                                               | Easy       |   ✅     |
 | 70                                           |  Invert Binary Tree                                      | Easy       |   ✅     |
 | 71                                           |  Symmetric Tree                                          | Easy       |        |
-| 72                                           |  Construct Binary Tree from Preorder and Inorder Traversal<br>        <br>        | Medium     |        |
-| 73                                           |  Construct Binary Tree from Inorder and Postorder Traversal<br>        <br>       | Medium     |        |
+| 72                                           |  Construct Binary Tree from Preorder and Inorder Traversal | Medium     |        |
+| 73                                           |  Construct Binary Tree from Inorder and Postorder Traversal | Medium     |        |
 | 74                                           |  Populating Next Right Pointers in Each Node II          | Medium     |        |
 | 75                                           | Flatten Binary Tree to Linked List                                                                        | Medium     |        |
-| 76                                           | Path Sum                                                                                                  | Easy       |        |
+| 76                                           | Path Sum                                                                                                  | Easy       |   ✅     |
 | 77                                           | Sum Root to Leaf Numbers                                                                                  | Medium     |        |
 | 78                                           | Binary Tree Maximum Path Sum                                                                              | Hard       |        |
 | 79                                           | Binary Search Tree Iterator                                                                               | Medium     |        |
