@@ -1,7 +1,6 @@
 ﻿using NUnit.Framework;
-using NUnit.Framework.Legacy;
 
-namespace LeetCodeSolutions.Math
+namespace LeetCodeSolutions.MathCategory
 {
     class Plus_One
     {
