@@ -187,7 +187,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 123                                          | Find K Pairs with Smallest Sums                                                                           | Medium     |        |
 | 124                                          | Find Median from Data Stream                                                                              | Hard       |        |
 | <br>        Bit Manipulation<br>             |                                                                                                           |            |        |
-| 125                                          | Add Binary                                                                                                | Easy       |        |
+| 125                                          | Add Binary                                                                                                | Easy       |   ✅     |
 | 126                                          | Reverse Bits                                                                                              | Easy       |        |
 | 127                                          | Number of 1 Bits                                                                                          | Easy       |        |
 | 128                                          | Single Number                                                                                             | Easy       |        |
