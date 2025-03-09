@@ -60,7 +60,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 14                                           |  Gas Station                                             | Medium     |        |
 | 15                                           |  Candy                                                   | Hard       |        |
 | 16                                           |  Trapping Rain Water                                     | Hard       |        |
-| 17                                           |  Roman to Integer                                        | Easy       |        |
+| 17                                           |  Roman to Integer                                        | Easy       |   ✅     |
 | 18                                           |  Integer to Roman                                        | Medium     |        |
 | 19                                           |  Length of Last Word                                     | Easy       |   ✅     |
 | 20                                           |  Longest Common Prefix                                   | Easy       |        |
