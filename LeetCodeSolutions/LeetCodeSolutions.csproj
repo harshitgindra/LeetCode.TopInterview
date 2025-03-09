@@ -22,7 +22,6 @@
    <Folder Include="KadaneAlgorithm\" />
    <Folder Include="Matrix\" />
    <Folder Include="MultiDimensionalDP\" />
-   <Folder Include="OneDDP\" />
    <Folder Include="SlidingWindow\" />
    <Folder Include="Trie\" />
  </ItemGroup>

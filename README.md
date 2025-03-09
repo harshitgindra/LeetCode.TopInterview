@@ -201,7 +201,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 135                                          | Pow(x, n)                                                                                                 | Medium     |        |
 | 136                                          | Max Points on a Line                                                                                      | Hard       |        |
 | <br>        1D DP<br>                        |                                                                                                           |            |        |
-| 137                                          | Climbing Stairs                                                                                           | Easy       |        |
+| 137                                          | Climbing Stairs                                                                                           | Easy       |   ✅     |
 | 138                                          | House Robber                                                                                              | Medium     |        |
 | 139                                          | Word Break                                                                                                | Medium     |        |
 | 140                                          | Coin Change                                                                                               | Medium     |        |
