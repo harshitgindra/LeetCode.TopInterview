@@ -190,7 +190,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 125                                          | Add Binary                                                                                                | Easy       |   ✅     |
 | 126                                          | Reverse Bits                                                                                              | Easy       |        |
 | 127                                          | Number of 1 Bits                                                                                          | Easy       |        |
-| 128                                          | Single Number                                                                                             | Easy       |        |
+| 128                                          | Single Number                                                                                             | Easy       |   ✅     |
 | 129                                          | Single Number II                                                                                          | Medium     |        |
 | 130                                          | Bitwise AND of Numbers Range                                                                              | Medium     |        |
 | <br>        Math<br>                         |                                                                                                           |            |        |
