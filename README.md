@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&amp;logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&amp;logoColor=white)
-![](https://img.shields.io/badge/Progress-0%2F150-0078D4)
+![](https://img.shields.io/badge/Progress-25%2F150-0078D4)
 
 This repository contains solutions to the Leetcode Top Interview 150 problems.
 
@@ -70,7 +70,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 24                                           |  Text Justification                                      | Hard       |        |
 | <br>        Two Pointers<br>                 |                                                                                                           |            |        |
 | 25                                           |  Valid Palindrome                                        | Easy       |    ✅    |
-| 26                                           |  Is Subsequence                                          | Easy       |        |
+| 26                                           |  Is Subsequence                                          | Easy       |   ✅     |
 | 27                                           |  Two Sum II - Input Array Is Sorted                      | Medium     |        |
 | 28                                           |  Container With Most Water                               | Medium     |        |
 | 29                                           |  3Sum                                                    | Medium     |        |
