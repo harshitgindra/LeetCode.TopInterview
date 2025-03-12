@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&amp;logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&amp;logoColor=white)
-![](https://img.shields.io/badge/Progress-25%2F150-0078D4)
+![](https://img.shields.io/badge/Progress-26%2F150-0078D4)
 
 This repository contains solutions to the Leetcode Top Interview 150 problems.
 
@@ -86,7 +86,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 37                                           |  Set Matrix Zeroes                                       | Medium     |        |
 | 38                                           |  Game of Life                                            | Medium     |        |
 | <br>        Hashmap<br>                      |                                                                                                           |            |        |
-| 39                                           |  Ransom Note                                             | Easy       |        |
+| 39                                           |  Ransom Note                                             | Easy       |   ✅     |
 | 40                                           |  Isomorphic Strings                                      | Easy       |   ✅      |
 | 41                                           |  Word Pattern                                            | Easy       |        |
 | 42                                           |  Valid Anagram                                           | Easy       |        |
