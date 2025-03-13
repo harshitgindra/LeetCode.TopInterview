@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&amp;logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&amp;logoColor=white)
-![](https://img.shields.io/badge/Progress-28%2F150-0078D4)
+![](https://img.shields.io/badge/Progress-29%2F150-0078D4)
 
 This repository contains solutions to the Leetcode Top Interview 150 problems.
 
@@ -135,7 +135,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 81                                           | Lowest Common Ancestor of a Binary Tree                                                                   | Medium     |        |
 | <br>        Binary Tree BFS<br>              |                                                                                                           |            |        |
 | 8282                                         | Binary Tree Right Side View                                                                               | Medium     |        |
-| 83                                           | Average of Levels in Binary Tree                                                                          | Easy       |        |
+| 83                                           | Average of Levels in Binary Tree                                                                          | Easy       |    ✅    |
 | 84                                           | Binary Tree Level Order Traversal                                                                         | Medium     |        |
 | 85                                           | Binary Tree Zigzag Level Order Traversal                                                                  | Medium     |        |
 | <br>        Binary Search Tree<br>           |                                                                                                           |            |        |
