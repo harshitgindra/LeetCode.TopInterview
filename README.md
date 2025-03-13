@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&amp;logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&amp;logoColor=white)
-![](https://img.shields.io/badge/Progress-27%2F150-0078D4)
+![](https://img.shields.io/badge/Progress-28%2F150-0078D4)
 
 This repository contains solutions to the Leetcode Top Interview 150 problems.
 
@@ -91,7 +91,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 41                                           |  Word Pattern                                            | Easy       |        |
 | 42                                           |  Valid Anagram                                           | Easy       |   ✅     |
 | 43                                           |  Group Anagrams                                          | Medium     |        |
-| 44                                           |  Two Sum                                                 | Easy       |        |
+| 44                                           |  Two Sum                                                 | Easy       |   ✅     |
 | 45                                           |  Happy Number                                            | Easy       |        |
 | 46                                           |  Contains Duplicate II                                   | Easy       |   ✅     |
 | 47                                           |  Longest Consecutive Sequence                            | Medium     |        |
