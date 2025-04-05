@@ -47,7 +47,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 1                                            |  Merge Sorted Array                                     | Easy       |    ✅    |
 | 2                                            |  Remove Element                                         | Easy       |    ✅    |
 | 3                                            |  Remove Duplicates from Sorted Array                    | Easy       |    ✅    |
-| 4                                            |  Remove Duplicates from Sorted Array II                 | Medium     |        |
+| 4                                            |  Remove Duplicates from Sorted Array II                 | Medium     |    ✅    |
 | 5                                            |  Majority Element                                       | Easy       |    ✅    |
 | 6                                            |  Rotate Array                                           | Medium     |        |
 | 7                                            |  Best Time to Buy and Sell Stock                        | Easy       |        |
