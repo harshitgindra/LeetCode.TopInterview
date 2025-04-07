@@ -1,4 +1,4 @@
-namespace LeetCode.MediumProblems;
+namespace LeetCodeSolutions.BinaryTreeBfs;
 
 public class BinaryTreeRightSideView
 {
