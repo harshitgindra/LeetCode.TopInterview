@@ -38,7 +38,7 @@ namespace LeetCodeSolutions.ArrayAndString
         }
 
         [Test(Description = "https://leetcode.com/problems/rotate-array/")]
-        [Category("Easy")]
+        [Category("Medium")]
         [Category("LeetCode")]
         [Category("Rotate Array")]
         [TestCaseSource(nameof(Input))]

@@ -134,7 +134,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 80                                           | Count Complete Tree Nodes                                                                                 | Easy       |   ✅     |
 | 81                                           | Lowest Common Ancestor of a Binary Tree                                                                   | Medium     |        |
 | <br>        Binary Tree BFS<br>              |                                                                                                           |            |        |
-| 8282                                         | Binary Tree Right Side View                                                                               | Medium     |        |
+| 199                                         | Binary Tree Right Side View                                                                               | Medium     |    ✅    |
 | 83                                           | Average of Levels in Binary Tree                                                                          | Easy       |    ✅    |
 | 84                                           | Binary Tree Level Order Traversal                                                                         | Medium     |        |
 | 85                                           | Binary Tree Zigzag Level Order Traversal                                                                  | Medium     |        |
