@@ -143,7 +143,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 87                                           | Kth Smallest Element in a BST                                                                             | Medium     |        |
 | 98                                           | Validate Binary Search Tree                                                                               | Medium     |   ✅     |
 | <br>        Graph General<br>                |                                                                                                           |            |        |
-| 89                                           | Number of Islands                                                                                         | Medium     |        |
+| 89                                           | Number of Islands                                                                                         | Medium     |   ✅     |
 | 90                                           | Surrounded Regions                                                                                        | Medium     |        |
 | 91                                           | Clone Graph                                                                                               | Medium     |        |
 | 92                                           | Evaluate Division                                                                                         | Medium     |        |

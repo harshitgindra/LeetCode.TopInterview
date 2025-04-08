@@ -15,7 +15,6 @@
  <ItemGroup>
    <Folder Include="Backtracking\" />
    <Folder Include="GraphBfs\" />
-   <Folder Include="Graph\" />
    <Folder Include="Heap\" />
    <Folder Include="Intervals\" />
    <Folder Include="KadaneAlgorithm\" />
