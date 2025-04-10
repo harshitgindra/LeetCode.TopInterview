@@ -140,7 +140,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 103                                           | Binary Tree Zigzag Level Order Traversal                                                                  | Medium     |    ✅    |
 | <br>        Binary Search Tree<br>           |                                                                                                           |            |        |
 | 86                                           | Minimum Absolute Difference in BST                                                                        | Easy       |    ✅    |
-| 87                                           | Kth Smallest Element in a BST                                                                             | Medium     |        |
+| 87                                           | Kth Smallest Element in a BST                                                                             | Medium     |    ✅    |
 | 98                                           | Validate Binary Search Tree                                                                               | Medium     |   ✅     |
 | <br>        Graph General<br>                |                                                                                                           |            |        |
 | 200                                           | Number of Islands                                                                                         | Medium     |   ✅     |
