@@ -72,7 +72,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 25                                           |  Valid Palindrome                                        | Easy       |    ✅    |
 | 26                                           |  Is Subsequence                                          | Easy       |   ✅     |
 | 27                                           |  Two Sum II - Input Array Is Sorted                      | Medium     |   ✅     |
-| 28                                           |  Container With Most Water                               | Medium     |        |
+| 28                                           |  Container With Most Water                               | Medium     |   ✅     |
 | 29                                           |  3Sum                                                    | Medium     |        |
 | <br>        Sliding Window<br>               |                                                                                                           |            |        |
 | 30                                           |  Minimum Size Subarray Sum                               | Medium     |        |
