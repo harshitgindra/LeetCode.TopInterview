@@ -167,7 +167,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 107                                          | Word Search                                                                                               | Medium     |        |
 | <br>        Divide &amp; Conquer<br>         |                                                                                                           |            |        |
 | 108                                          | Convert Sorted Array to Binary Search Tree                                                                | Easy       |   ✅     |
-| 109                                          | Sort List                                                                                                 | Medium     |        |
+| 109                                          | Sort List                                                                                                 | Medium     |   ✅     |
 | 110                                          | Construct Quad Tree                                                                                       | Medium     |        |
 | 111                                          | Merge k Sorted Lists                                                                                      | Hard       |        |
 | <br>        Kadane&#39;s Algorithm<br>       |                                                                                                           |            |        |

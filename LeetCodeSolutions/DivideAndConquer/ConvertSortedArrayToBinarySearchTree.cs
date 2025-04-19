@@ -1,5 +1,3 @@
-using LeetCodeSolutions.Utils;
-using NUnit.Framework;
 
 namespace LeetCodeSolutions.DivideAndConquer;
 
@@ -30,12 +28,12 @@ public class ConvertSortedArrayToBinarySearchTree
         return node;
     }
 
-    [Test(Description = "https://leetcode.com/problems/count-complete-tree-nodes/")]
+    [Test(Description = "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/")]
     [Category("Easy")]
     [Category("LeetCode")]
-    [Category("Count Complete Tree Nodes")]
+    [Category("Convert Sorted Array To Binary Search Tree")]
     [TestCaseSource(nameof(Input))]
-    [Category("BinaryTreeGeneral")]
+    [Category("DivideAndConquer")]
     [Category("TopInterview")]
     public void Test1((int?[] Output, int[] Input) item)
     {
