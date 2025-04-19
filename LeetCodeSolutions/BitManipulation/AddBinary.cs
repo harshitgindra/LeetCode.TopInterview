@@ -1,6 +1,3 @@
-using NUnit.Framework;
-using NUnit.Framework.Legacy;
-
 namespace LeetCodeSolutions.BitManipulation;
 
 public class Add_Binary
@@ -11,7 +8,7 @@ public class Add_Binary
         int ib = b.Length - 1;
         string returnValue = "";
         char carry = '0';
-        
+
         while (ia >= 0 || ib >= 0)
         {
             var tempA = '0';
@@ -19,7 +16,7 @@ public class Add_Binary
             {
                 tempA = a[ia];
             }
-            
+
             var tempB = '0';
             if (ib >= 0)
             {
@@ -30,15 +27,16 @@ public class Add_Binary
 
             carry = result.carry;
             returnValue = $"{result.sum}{returnValue}";
-            
+
             ia--;
             ib--;
         }
-        
+
         if (carry != '0')
         {
             returnValue = $"{carry}{returnValue}";
         }
+
         return returnValue;
     }
 

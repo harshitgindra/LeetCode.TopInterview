@@ -1,15 +1,9 @@
-﻿using NUnit.Framework;
-
-namespace LeetCode
+﻿namespace LeetCodeSolutions.BitManipulation
 {
-    /// <summary>
-    /// https://leetcode.com/problems/single-number/
-    /// </summary>
-    public class Single_Number
+    public class SingleNumberSolution
     {
         public int SingleNumber(int[] nums)
         {
-
             if (nums == null || nums.Length % 2 == 0)
             {
                 return 0;

@@ -1,9 +1,6 @@
 
 namespace LeetCodeSolutions.DivideAndConquer;
 
-/// <summary>
-/// https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
-/// </summary>
 public class ConvertSortedArrayToBinarySearchTree
 {
     public TreeNode SortedArrayToBST(int[] nums)

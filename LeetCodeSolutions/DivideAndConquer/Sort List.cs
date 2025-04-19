@@ -74,7 +74,7 @@
         [TestCaseSource(nameof(Input))]
         [Category("DivideAndConquer")]
         [Category("TopInterview")]
-        public void Test1((int?[] Output, int[] Input) item)
+        public void Test1((int[] Output, int[] Input) item)
         {
             var response = SortList(item.Input.ToListNode());
             Assert.That(response.ToArray(), Is.EqualTo(item.Output));
