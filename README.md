@@ -99,7 +99,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 48                                           |  Summary Ranges                                          | Easy       |   ✅     |
 | 49                                           |  Merge Intervals                                         | Medium     |   ✅     |
 | 50                                           |  Insert Interval                                         | Medium     |   ✅     |
-| 51                                           |  Minimum Number of Arrows to Burst Balloons              | Medium     |        |
+| 51                                           |  Minimum Number of Arrows to Burst Balloons              | Medium     |   ✅     |
 | <br>        Stack<br>                        |                                                                                                           |            |        |
 | 52                                           |  Valid Parentheses                                       | Easy       |        |
 | 53                                           |  Simplify Path                                           | Medium     |        |
