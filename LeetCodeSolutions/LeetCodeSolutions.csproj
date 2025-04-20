@@ -16,7 +16,6 @@
    <Folder Include="Backtracking\" />
    <Folder Include="GraphBfs\" />
    <Folder Include="Heap\" />
-   <Folder Include="Intervals\" />
    <Folder Include="KadaneAlgorithm\" />
    <Folder Include="Matrix\" />
    <Folder Include="MultiDimensionalDP\" />
