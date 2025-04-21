@@ -158,7 +158,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 99                                           | Design Add and Search Words Data Structure                                                                | Medium     |        |
 | 100                                          | Word Search II                                                                                            | Hard       |        |
 | <br>        Backtracking<br>                 |                                                                                                           |            |        |
-| 101                                          | Letter Combinations of a Phone Number                                                                     | Medium     |        |
+| 101                                          | Letter Combinations of a Phone Number                                                                     | Medium     |   ✅     |
 | 102                                          | Combinations                                                                                              | Medium     |        |
 | 103                                          | Permutations                                                                                              | Medium     |        |
 | 104                                          | Combination Sum                                                                                           | Medium     |        |
