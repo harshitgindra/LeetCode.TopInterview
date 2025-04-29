@@ -161,7 +161,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 101                                          | Letter Combinations of a Phone Number                                                                     | Medium     |   ✅     |
 | 102                                          | Combinations                                                                                              | Medium     |  ✅     |
 | 103                                          | Permutations                                                                                              | Medium     |   ✅     |
-| 104                                          | Combination Sum                                                                                           | Medium     |        |
+| 104                                          | Combination Sum                                                                                           | Medium     |   ✅     |
 | 105                                          | N-Queens II                                                                                               | Hard       |  ✅      |
 | 106                                          | Generate Parentheses                                                                                      | Medium     |        |
 | 107                                          | Word Search                                                                                               | Medium     |        |
