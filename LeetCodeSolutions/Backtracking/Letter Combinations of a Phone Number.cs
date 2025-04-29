@@ -69,7 +69,7 @@
         [Category("Letter Combinations of a Phone Number")]
         [TestCaseSource(nameof(Input))]
         [Category("TopInterview")]
-        [Category("Letter Combinations of a Phone Number")]
+        [Category("Backtracking")]
         public void Test1((int Output, string Input) item)
         {
             var response = LetterCombinations(item.Input);
