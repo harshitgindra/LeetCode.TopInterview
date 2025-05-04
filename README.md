@@ -179,7 +179,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 116                                          | Find Peak Element                                                                                         | Medium     |   ✅     |
 | 117                                          | Search in Rotated Sorted Array                                                                            | Medium     |   ✅     |
 | 118                                          | Find First and Last Position of Element in Sorted Array                                                   | Medium     |   ✅     |
-| 119                                          | Find Minimum in Rotated Sorted Array                                                                      | Medium     |        |
+| 119                                          | Find Minimum in Rotated Sorted Array                                                                      | Medium     |   ✅     |
 | 120                                          | Median of Two Sorted Arrays                                                                               | Hard       |        |
 | <br>        Heap<br>                         |                                                                                                           |            |        |
 | 121                                          | Kth Largest Element in an Array                                                                           | Medium     |        |
