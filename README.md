@@ -175,7 +175,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 113                                          | Maximum Sum Circular Subarray                                                                             | Medium     |        |
 | <br>        Binary Search<br>                |                                                                                                           |            |        |
 | 114                                          | Search Insert Position                                                                                    | Easy       |    ✅    |
-| 115                                          | Search a 2D Matrix                                                                                        | Medium     |        |
+| 115                                          | Search a 2D Matrix                                                                                        | Medium     |   ✅     |
 | 116                                          | Find Peak Element                                                                                         | Medium     |   ✅     |
 | 117                                          | Search in Rotated Sorted Array                                                                            | Medium     |        |
 | 118                                          | Find First and Last Position of Element in Sorted Array                                                   | Medium     |        |
