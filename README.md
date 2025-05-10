@@ -90,7 +90,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 40                                           |  Isomorphic Strings                                      | Easy       |   ✅      |
 | 41                                           |  Word Pattern                                            | Easy       |        |
 | 42                                           |  Valid Anagram                                           | Easy       |   ✅     |
-| 43                                           |  Group Anagrams                                          | Medium     |        |
+| 43                                           |  Group Anagrams                                          | Medium     |    ✅    |
 | 44                                           |  Two Sum                                                 | Easy       |   ✅     |
 | 45                                           |  Happy Number                                            | Easy       |   ✅     |
 | 46                                           |  Contains Duplicate II                                   | Easy       |   ✅     |
