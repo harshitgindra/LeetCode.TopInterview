@@ -92,7 +92,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 42                                           |  Valid Anagram                                           | Easy       |   ✅     |
 | 43                                           |  Group Anagrams                                          | Medium     |        |
 | 44                                           |  Two Sum                                                 | Easy       |   ✅     |
-| 45                                           |  Happy Number                                            | Easy       |        |
+| 45                                           |  Happy Number                                            | Easy       |   ✅     |
 | 46                                           |  Contains Duplicate II                                   | Easy       |   ✅     |
 | 47                                           |  Longest Consecutive Sequence                            | Medium     |   ✅    |
 | <br>        Intervals<br>                    |                                                                                                           |            |        |
