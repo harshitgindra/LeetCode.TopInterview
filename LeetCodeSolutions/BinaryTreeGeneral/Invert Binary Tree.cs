@@ -1,9 +1,6 @@
-﻿using LeetCodeSolutions.Utils;
-using NUnit.Framework;
-
-namespace LeetCodeSolutions.BinaryTreeGeneral
+﻿namespace LeetCodeSolutions.BinaryTreeGeneral
 {
-    class Invert_Binary_Tree
+    class InvertBinaryTree
     {
         public TreeNode InvertTree(TreeNode root)
         {
