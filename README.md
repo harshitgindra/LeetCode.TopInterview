@@ -108,7 +108,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 56                                           |  Basic Calculator                                        | Hard       |        |
 | <br>        Linked List<br>                  |                                                                                                           |            |        |
 | 57                                           |  Linked List Cycle                                       | Easy       |   ✅     |
-| 58                                           |  Add Two Numbers                                         | Medium     |        |
+| 58                                           |  Add Two Numbers                                         | Medium     |   ✅     |
 | 59                                           |  Merge Two Sorted Lists                                  | Easy       |   ✅     |
 | 60                                           |  Copy List with Random Pointer                           | Medium     |        |
 | 61                                           |  Reverse Linked List II                                  | Medium     |        |

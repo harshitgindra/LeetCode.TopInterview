@@ -1,9 +1,6 @@
-﻿using LeetCodeSolutions.Utils;
-using NUnit.Framework;
-
-namespace LeetCodeSolutions.LinkedList
+﻿namespace LeetCodeSolutions.LinkedList
 {
-    class Linked_List_Cycle
+    class LinkedListCycle
     {
         public bool HasCycle(ListNode head)
         {
