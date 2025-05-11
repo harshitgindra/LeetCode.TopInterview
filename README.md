@@ -128,7 +128,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 74                                           |  Populating Next Right Pointers in Each Node II          | Medium     |        |
 | 75                                           | Flatten Binary Tree to Linked List                                                                        | Medium     |        |
 | 76                                           | Path Sum                                                                                                  | Easy       |   ✅     |
-| 77                                           | Sum Root to Leaf Numbers                                                                                  | Medium     |        |
+| 77                                           | Sum Root to Leaf Numbers                                                                                  | Medium     |   ✅     |
 | 78                                           | Binary Tree Maximum Path Sum                                                                              | Hard       |        |
 | 79                                           | Binary Search Tree Iterator                                                                               | Medium     |        |
 | 80                                           | Count Complete Tree Nodes                                                                                 | Easy       |   ✅     |
