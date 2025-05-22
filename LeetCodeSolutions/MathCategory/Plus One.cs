@@ -1,8 +1,6 @@
-﻿using NUnit.Framework;
-
-namespace LeetCodeSolutions.MathCategory
+﻿namespace LeetCodeSolutions.MathCategory
 {
-    class Plus_One
+    class PlusOneSolution
     {
         public int[] PlusOne(int[] digits)
         {
