@@ -182,7 +182,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
 | 119                                          | Find Minimum in Rotated Sorted Array                                                                      | Medium     |   ✅     |
 | 120                                          | Median of Two Sorted Arrays                                                                               | Hard       |        |
 | <br>        Heap<br>                         |                                                                                                           |            |        |
-| 121                                          | Kth Largest Element in an Array                                                                           | Medium     |        |
+| 121                                          | Kth Largest Element in an Array                                                                           | Medium     |    ✅    |
 | 122                                          | IPO                                                                                                       | Hard       |        |
 | 123                                          | Find K Pairs with Smallest Sums                                                                           | Medium     |        |
 | 124                                          | Find Median from Data Stream                                                                              | Hard       |        |

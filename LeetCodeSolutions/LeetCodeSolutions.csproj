@@ -14,7 +14,6 @@
     </ItemGroup>
  <ItemGroup>
    <Folder Include="GraphBfs\" />
-   <Folder Include="Heap\" />
    <Folder Include="KadaneAlgorithm\" />
    <Folder Include="Matrix\" />
    <Folder Include="MultiDimensionalDP\" />
